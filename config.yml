@@ -1,0 +1,11 @@
+3gpp_root_url: https://www.3gpp.org/ftp/Specs/archive/
+dump_path: ./outputs/
+spec_list:
+  - name: '23.501'
+    version: g
+  - name: '23.501'
+    version: h
+  - name: '23.502'
+    version: g
+  - name: '23.502'
+    version: h
